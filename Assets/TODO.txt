@@ -1,0 +1,2 @@
+﻿- Create player textures in parts. (Seperate arms, legs, body, hoodie etc)
+- Maybe make the legs 1 pixel longer.

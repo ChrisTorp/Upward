@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 6c9c210f51b0847698e7b40253d624b8
+timeCreated: 1462353101
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterSheet_0
+    21300002: CharacterSheet_1
+    21300004: CharacterSheet_2
+    21300006: CharacterSheet_3
+    21300008: CharacterSheet_4
+    21300010: CharacterSheet_5
+    21300012: CharacterSheet_6
+    21300014: CharacterSheet_7
+    21300016: CharacterSheet_8
+    21300018: CharacterSheet_9
+    21300020: CharacterSheet_10
+    21300022: CharacterSheet_11
+    21300024: CharacterSheet_12
+    21300026: CharacterSheet_13
+    21300028: CharacterSheet_14
+    21300030: CharacterSheet_15
+    21300032: CharacterSheet_16
+    21300034: CharacterSheet_17
+    21300036: CharacterSheet_18
+    21300038: CharacterSheet_19
+    21300040: CharacterSheet_20
+    21300042: CharacterSheet_21
+    21300044: CharacterSheet_22
+    21300046: CharacterSheet_23
+    21300048: CharacterSheet_24
+    21300050: CharacterSheet_25
+    21300052: CharacterSheet_26
+    21300054: CharacterSheet_27
+    21300056: CharacterSheet_28
+    21300058: CharacterSheet_29
+    21300060: CharacterSheet_30
+    21300062: CharacterSheet_31
+    21300064: CharacterSheet_32
+    21300066: CharacterSheet_33
+    21300068: CharacterSheet_34
+    21300070: CharacterSheet_35
+    21300072: CharacterSheet_36
+    21300074: CharacterSheet_37
+    21300076: CharacterSheet_38
+    21300078: CharacterSheet_39
+    21300080: CharacterSheet_40
+    21300082: CharacterSheet_41
+    21300084: CharacterSheet_42
+    21300086: CharacterSheet_43
+    21300088: CharacterSheet_44
+    21300090: CharacterSheet_45
+    21300092: CharacterSheet_46
+    21300094: CharacterSheet_47
+    21300096: CharacterSheet_48
+    21300098: CharacterSheet_49
+    21300100: CharacterSheet_50
+    21300102: CharacterSheet_51
+    21300104: CharacterSheet_52
+    21300106: CharacterSheet_53
+    21300108: CharacterSheet_54
+    21300110: CharacterSheet_55
+    21300112: CharacterSheet_56
+    21300114: CharacterSheet_57
+    21300116: CharacterSheet_58
+    21300118: CharacterSheet_59
+    21300120: CharacterSheet_60
+    21300122: CharacterSheet_61
+    21300124: CharacterSheet_62
+    21300126: CharacterSheet_63
+    21300128: CharacterSheet_64
+    21300130: CharacterSheet_65
+    21300132: CharacterSheet_66
+    21300134: CharacterSheet_67
+    21300136: CharacterSheet_68
+    21300138: CharacterSheet_69
+    21300140: CharacterSheet_70
+    21300142: CharacterSheet_71
+    21300144: CharacterSheet_72
+    21300146: CharacterSheet_73
+    21300148: CharacterSheet_74
+    21300150: CharacterSheet_75
+    21300152: CharacterSheet_76
+    21300154: CharacterSheet_77
+    21300156: CharacterSheet_78
+    21300158: CharacterSheet_79
+    21300160: CharacterSheet_80
+    21300162: CharacterSheet_81
+    21300164: CharacterSheet_82
+    21300166: CharacterSheet_83
+    21300168: CharacterSheet_84
+    21300170: CharacterSheet_85
+    21300172: CharacterSheet_86
+    21300174: CharacterSheet_87
+    21300176: CharacterSheet_88
+    21300178: CharacterSheet_89
+    21300180: CharacterSheet_90
+    21300182: CharacterSheet_91
+    21300184: CharacterSheet_92
+    21300186: CharacterSheet_93
+    21300188: CharacterSheet_94
+    21300190: CharacterSheet_95
+    21300192: CharacterSheet_96
+    21300194: CharacterSheet_97
+    21300196: CharacterSheet_98
+    21300198: CharacterSheet_99
+    21300200: CharacterSheet_100
+    21300202: CharacterSheet_101
+    21300204: CharacterSheet_102
+    21300206: CharacterSheet_103
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharacterSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 15
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 147
+        width: 19
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 145
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 130
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 129
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 129
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 129
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 129
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 129
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 128
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 129
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 129
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 11
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 112
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 112
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 112
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 112
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 111
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 111
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 111
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 112
+        width: 23
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 112
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 92
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 92
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 92
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 93
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 93
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 93
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 93
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 93
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 92
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 93
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 93
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 93
+        width: 7
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 92
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_50
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 93
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 74
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_54
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 76
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_57
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 76
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_58
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 76
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 8
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 76
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 75
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 75
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 76
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 75
+        width: 6
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_65
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 75
+        width: 5
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 75
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 75
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_68
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 74
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 74
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 74
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 51
+        width: 9
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 51
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 51
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 52
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 52
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_77
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 52
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 52
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 52
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 52
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 52
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 5
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_84
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 52
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_85
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 6
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 52
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_89
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 27
+        width: 6
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_91
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 27
+        width: 5
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 27
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 7
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_97
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_100
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 27
+        width: 9
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CharacterSheet_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
